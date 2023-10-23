@@ -1,0 +1,12 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    margin: 20px;
+}
+div{
+    margin: 30px;
+}
+.resaltar{
+    color: red;
+}

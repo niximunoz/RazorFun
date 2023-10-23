@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ES">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Web Page</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+
+<body>
+    <h1>Here are some delicious foods!</h1>
+    <div>
+        @{
+            string[] comidas = { "Apple Pie", "Pizza", "Cinnamon Rolls", "Lasagna", "Donuts", "Chocolate Cake", "Burritos"
+        };
+
+            foreach (string comida in comidas)
+            {
+                if (comida.StartsWith("C"))
+                {
+                    <p class="resaltar">@comida</p>
+                }
+                else
+                {
+                    <p>@comida</p>
+                }
+            }
+        }
+    </div>
+</body>
+
+</html>

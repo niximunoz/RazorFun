@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "BDFdIJGoKv0zi0Pc5Q/N6xb4QJMlx6xsQZA2a3JYANE=",
+  "Source": "RazorFun",
+  "BasePath": "_content/RazorFun",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorFun\\wwwroot",
+      "Source": "RazorFun",
+      "ContentRoot": "C:\\Users\\nixim\\Desktop\\C#-.NET-SONDA-Septiembre-2023\\Asignaciones\\RazorFun\\wwwroot\\",
+      "BasePath": "_content/RazorFun",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nixim\\Desktop\\C#-.NET-SONDA-Septiembre-2023\\Asignaciones\\RazorFun\\wwwroot\\css\\styles.css",
+      "SourceId": "RazorFun",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nixim\\Desktop\\C#-.NET-SONDA-Septiembre-2023\\Asignaciones\\RazorFun\\wwwroot\\",
+      "BasePath": "_content/RazorFun",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
